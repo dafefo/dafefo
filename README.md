@@ -1,11 +1,11 @@
-# Hi, I'm (YOUR NAME)
+# Hi, I'm (Daniel Felipe Forero)
 
 <!-- A short sentence that can  describe who you are -->
 
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (STUDENT) at/from [Universidad de Los Andes](LINK UNIVERSITY)
+- Bachelor: Industrial Engineer and Biomedical Engineer at [Universidad de Los Andes](LINK UNIVERSITY)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
@@ -14,9 +14,6 @@
 
 
 <img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
-
-- Member of [RESEARCH GROUP] (LINK OF RESEARCH GROUP) -->
-
 
 <!-- Showing what you work on, lets other collaborate with you -->
 ## Research
