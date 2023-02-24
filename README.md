@@ -16,17 +16,11 @@
 <img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
 
 <!-- Showing what you work on, lets other collaborate with you -->
-## Research
-
-### Previous:
-
 ### Current:
 
 - Associations between Iligal gold mining and Malaria Falciparum cases un Colombia from 2006 to 2014
 
 <!-- Topics that you haven't research yet but are intriguing to you -->
-### Future interests:
-
 
 <!-- Because we are humans before researchers -->
 ## Hobbies
