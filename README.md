@@ -5,7 +5,7 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: Industrial Engineer and Biomedical Engineer at [Universidad de Los Andes](LINK UNIVERSITY)
+- Bachelor: Industrial Engineer and Biomedical Engineer at [Universidad de Los Andes](https://uniandes.edu.co/)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
