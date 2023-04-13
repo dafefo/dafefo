@@ -18,7 +18,7 @@
 <!-- Showing what you work on, lets other collaborate with you -->
 ### Current:
 
-- Associations between Iligal gold mining and Malaria Falciparum cases un Colombia from 2006 to 2014
+- Associations between Illegal gold mining and Malaria Falciparum cases un Colombia from 2007 to 2014
 
 <!-- Topics that you haven't research yet but are intriguing to you -->
 
